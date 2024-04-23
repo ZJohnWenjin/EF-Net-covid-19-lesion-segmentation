@@ -15,3 +15,8 @@ Here is the output of our Edge Dual-Parallel Attention
 <p align="center">
   <img src="Image/edge_output.png" width="600">
 </p>
+
+Here is the final output comparing existing models
+<p align="center">
+  <img src="Image/output.png" width="600">
+</p>

@@ -10,3 +10,7 @@ EF-Net offers better, clearer segmentation results, particularly in segmenting l
 - Deep-level Feature Aggregator
 ```
 Code is comging soon
+
+<p align="center">
+  <img src="Images/edge_output.png" width="600">
+</p>

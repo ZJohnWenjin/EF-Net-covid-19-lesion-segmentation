@@ -11,6 +11,7 @@ EF-Net offers better, clearer segmentation results, particularly in segmenting l
 ```
 Code is comging soon
 
+Here is the output of our Edge Dual-Parallel Attention
 <p align="center">
-  <img src="Images/edge_output.png" width="600">
+  <img src="Image/edge_output.png" width="600">
 </p>
